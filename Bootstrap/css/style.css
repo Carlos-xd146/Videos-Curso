@@ -1,0 +1,10 @@
+@font-face{
+    font-family: UnifrakturCook;
+    src: url(../fonts/UnifrakturCook/UnifrakturCook-Bold.ttf);
+}
+
+.logo{
+    font-family: UnifrakturCook;
+    font-size: 5rem;
+    color: var(--bs-indigo);
+}
