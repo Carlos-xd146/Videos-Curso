@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receita>
+    <!-- Contribuinte 1 -->
+    <contribuinte>
+        <cpf>111.111.111-11</cpf>
+        <rg>11.111.111-4</rg>
+        <nome>Alcides</nome>
+        <data_nasc>13/06/1980</data_nasc>
+        <endereco>
+            <logradouro>Alameda</logradouro>
+            <numero>1212</numero>
+            <bairro>Limão</bairro>
+            <cep>12121-777</cep>
+            <cidade>São Paulo</cidade>
+            <estado>São Paulo</estado>
+        </endereco>
+        <contato>
+            <telefone>(11) 1111-1111</telefone>
+            <celular>(11) 91111-1111</celular>
+            <email>alcides@hotmail.com</email>
+        </contato>
+        <renda>R$ 3.999,00</renda>
+        <foto>https://robohash.org/OS6.png?set=set4</foto>
+        <conta>
+            <Banco>Santander</Banco>
+            <ag>3333-3</ag>
+            <cc>222222-2</cc>
+        </conta>
+    </contribuinte>
+
+     <!-- Contribuinte 2 -->
+    <contribuinte>
+        <cpf>222.222.222-22</cpf>
+        <rg>2.221.222-4</rg>
+        <nome>Maria</nome>
+        <data_nasc>13/07/1990</data_nasc>
+        <endereco>
+            <logradouro>Alameda</logradouro>
+            <numero>1500</numero>
+            <bairro>Ceu Azul</bairro>
+            <cep>13333-555</cep>
+            <cidade>São Paulo</cidade>
+            <estado>São Paulo</estado>
+        </endereco>
+        <contato>
+            <telefone>(11) 2222-2222</telefone>
+            <celular>(11) 92222-1111</celular>
+            <email>maria@hotmail.com</email>
+        </contato>
+        <renda>R$ 5.999,00</renda>
+        <foto>https://robohash.org/OS6.png?set=set4</foto>
+        <conta>
+            <Banco>Santander</Banco>
+            <ag>4444-3</ag>
+            <cc>333333-2</cc>
+        </conta>
+    </contribuinte>
+
+     <!-- Contribuinte 3 -->
+    <contribuinte>
+        <cpf>333.333.333-33</cpf>
+        <rg>33.333.333-4</rg>
+        <nome>Pedro</nome>
+        <data_nasc>17/10/1999</data_nasc>
+        <endereco>
+            <logradouro>Alameda</logradouro>
+            <numero>1666</numero>
+            <bairro>Alvorada</bairro>
+            <cep>12555-121</cep>
+            <cidade>São Paulo</cidade>
+            <estado>São Paulo</estado>
+        </endereco>
+        <contato>
+            <telefone>(11) 1111-3333</telefone>
+            <celular>(11) 94444-4545</celular>
+            <email>pedro@hotmail.com</email>
+        </contato>
+        <renda>R$ 2.999,00</renda>
+        <foto>https://robohash.org/OS6.png?set=set4</foto>
+        <conta>
+            <Banco>Santander</Banco>
+            <ag>4545-3</ag>
+            <cc>454545-2</cc>
+        </conta>
+    </contribuinte>
+
+     <!-- Contribuinte 4 -->
+    <contribuinte>
+        <cpf>444.444.444-44</cpf>
+        <rg>45.454.454-4</rg>
+        <nome>Fulano</nome>
+        <data_nasc>20/06/1975</data_nasc>
+        <endereco>
+            <logradouro>Alameda</logradouro>
+            <numero>500</numero>
+            <bairro>Planalto</bairro>
+            <cep>75000-111</cep>
+            <cidade>São Paulo</cidade>
+            <estado>São Paulo</estado>
+        </endereco>
+        <contato>
+            <telefone>(11) 3822-4848</telefone>
+            <celular>(11) 94848-4848</celular>
+            <email>fulano@hotmail.com</email>
+        </contato>
+        <renda>R$ 6.699,00</renda>
+        <foto>https://robohash.org/OS6.png?set=set4</foto>
+        <conta>
+            <Banco>Santander</Banco>
+            <ag>6363-3</ag>
+            <cc>636363-2</cc>
+        </conta>
+    </contribuinte>
+
+     <!-- Contribuinte 5 -->
+    <contribuinte>
+        <cpf>555.555.555-55</cpf>
+        <rg>56.565.565-4</rg>
+        <nome>John</nome>
+        <data_nasc>06/11/2010</data_nasc>
+        <endereco>
+            <logradouro>Alameda</logradouro>
+            <numero>1321</numero>
+            <bairro>Horizonte</bairro>
+            <cep>12536-123</cep>
+            <cidade>São Paulo</cidade>
+            <estado>São Paulo</estado>
+        </endereco>
+        <contato>
+            <telefone>(11) 3823-1234</telefone>
+            <celular>(11) 91234-1234</celular>
+            <email>john@hotmail.com</email>
+        </contato>
+        <renda>R$ 7.699,00</renda>
+        <foto>https://robohash.org/OS6.png?set=set4</foto>
+        <conta>
+            <Banco>Santander</Banco>
+            <ag>7979-3</ag>
+            <cc>797979-2</cc>
+        </conta>
+    </contribuinte>
+</receita>
