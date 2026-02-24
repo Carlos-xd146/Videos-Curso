@@ -6,6 +6,14 @@
 # else:
 #     print("Numero Ìmpar")
 
+numero = int(input("Digite um número inteiro: "))
+
+# Verificar se é par ou ímpar
+if numero % 2 == 0:
+    print("O número é PAR.")
+else:
+    print("O número é ÍMPAR.")
+
 # 2.2
 
 # nota = int(input("Nota: "))
@@ -94,12 +102,12 @@
 
 # 2.10
 
-usuario = input("Usuario: ")
-senha = input("Senha: ")
+# usuario = input("Usuario: ")
+# senha = input("Senha: ")
 
-if usuario=="admin" and senha=="1234":
-    print("login bem-sucedido")
-else:
-    print("login falhou")
+# if usuario=="admin" and senha=="1234":
+#     print("login bem-sucedido")
+# else:
+#     print("login falhou")
 
     
