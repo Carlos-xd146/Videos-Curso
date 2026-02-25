@@ -17,11 +17,29 @@
 
 # desafio:
 
-num1 = print(input("Numero1: "))
-num2 = print(input("Numero2: "))
+num1 = int(input("Numero1: "))
+num2 = int(input("Numero2: "))
 
-def div (num1,num2): 
-    return num1 + num2
+def div (a,b): 
+    return (a + b) / 2
 
-resultado = div()
+resultado = div(num1, num2)
 print(resultado)    
+
+
+5
+
+1
+2
+3
+4
+5
+
+input total
+MEDIA =0
+range(total)
+for range:
+    A = INPUT 
+    MEDIA = mEDIA+ DIV(A,TOTAL)
+
+PRNT(MEDIA)
