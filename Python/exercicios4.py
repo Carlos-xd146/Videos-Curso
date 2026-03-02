@@ -1,45 +1,78 @@
-# exemplo 1: função
+# 4.1
 
-# def saudar(nome):
-#     mensagem = f"Olá, {nome}!"
+# nome = input("Nome: ")
+# periodo = float(input("Periodo: "))
+
+# def saudar(nome, periodo):
+#     if periodo >=0 and periodo <= 12:
+#         periodo = "Bom dia"
+#     elif periodo >=13 and periodo <= 18:
+#         periodo = "Boa tarde"
+#     else:
+#         periodo = "Boa noite"
+
+#     mensagem = f"{periodo}, {nome}!"
 #     return mensagem
 
-# resultado = saudar("Ana")
+# resultado = saudar(nome, periodo)
 # print(resultado)
 
-# Exemplo 2 : calculadora simples
+# 4.2
 
-# def somar(a, b):
-#     return a + b
+# num1 = int(input("Numero 1: "))
+# num2 = int(input("Numero 2: "))
+# operacao = input("Operacao: ")
 
-# resultado = somar(10, 5)
-# print("Resultado: ", resultado)
+# def calcular(num1, num2, operacao):
+#     if operacao == "+":
+#         print(num1+num2)
+#     elif operacao == "-":
+#         print(num1-num2)
+#     elif operacao == "*":
+#         print(num1*num2)
+#     elif operacao == "/":
+#         print(num1/num2)
 
-# desafio:
+# resultado = calcular(num1, num2, operacao)
+# print(resultado)
 
-num1 = int(input("Numero1: "))
-num2 = int(input("Numero2: "))
-
-def div (a,b): 
-    return (a + b) / 2
-
-resultado = div(num1, num2)
-print(resultado)    
+# 4.3 ---------------------------------------------------------------------------------------
 
 
-5
+# 4.4
 
-1
-2
-3
-4
-5
+# temperatura = int(input("Celsius: "))
 
-input total
-MEDIA =0
-range(total)
-for range:
-    A = INPUT 
-    MEDIA = mEDIA+ DIV(A,TOTAL)
+# def conversao(celsius):
+#     fahrenheit = (celsius*1.8)+32
+#     return fahrenheit
 
-PRNT(MEDIA)
+# resultado = conversao(temperatura)
+# print(resultado)
+
+# 4.5
+
+# circulo = int(input("Raio de Circulo: "))
+
+# def calculoArea(raio):
+#     area = 3.14159 * (raio*raio)
+#     return area
+
+# resultado = calculoArea(circulo)
+# print(resultado)
+
+# 4.6
+
+# verificacao = int(input("Idade: "))
+
+# def pode_dirigir(idade):
+#     if idade >= 18:
+#         print("Pode dirigir")
+#     else:
+#         print("Não pode dirigir")
+
+# resultado = pode_dirigir(verificacao)
+# print(resultado)
+
+# 4.7
+
