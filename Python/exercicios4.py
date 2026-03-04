@@ -36,7 +36,34 @@
 # resultado = calcular(num1, num2, operacao)
 # print(resultado)
 
-# 4.3 ---------------------------------------------------------------------------------------
+# 4.3 
+
+# def validar_email(email):
+#     tem_ponto = False
+#     tem_arroba = False
+
+#     for letra in email:
+#         # debug
+#         print("Letra atual:",letra)
+#         print("Valido ponto:", letra == '.')
+#         print("Valido @:", letra == '@')
+#         print(" ")
+#         if letra == '.':
+#             tem_ponto = True
+
+#         if letra == '@':
+#             tem_arroba= True
+
+#     if tem_arroba and tem_ponto:
+#         return True
+#     else:
+#         return False
+
+# entrada = input("Email: ") # fabio@gmail.com
+
+# resposta = validar_email(entrada)
+# print("Resposta: ", resposta)
+
 
 
 # 4.4
@@ -76,3 +103,11 @@
 
 # 4.7
 
+
+
+# 4.8
+
+# preco = int(input("Preço: "))
+# desconto = int(input("Desconto: "))
+
+# def aplicar_desconto(preco, desconto):
