@@ -111,3 +111,24 @@
 # desconto = int(input("Desconto: "))
 
 # def aplicar_desconto(preco, desconto):
+#     resultado = preco - ((desconto/100)*preco)
+#     return resultado
+
+# resposta = aplicar_desconto(preco, desconto)
+# print(resposta)
+
+# 4.9
+
+# base = int(input("Base: "))
+# expoente = int(input("Expoente: "))
+
+# def potencia(base, expoente):
+#     resultado = 1
+#     for i in range(expoente):
+#         resultado = resultado * base
+#     return resultado
+
+# resposta = potencia(base, expoente)
+# print(resposta)
+
+# 4.10
