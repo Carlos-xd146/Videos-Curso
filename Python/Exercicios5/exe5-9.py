@@ -13,4 +13,7 @@ def gerarSenha():
     senha = ''
 
     for numero in range(8):
-        senha = senha + letras_numeros[random.randrange] 
+        senha = senha + letras_numeros[random.randrange]
+
+
+janela.mainloop() 
