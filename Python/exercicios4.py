@@ -132,3 +132,14 @@
 # print(resposta)
 
 # 4.10
+
+cpf = input("CPF: ")
+
+def validacao(cpf):
+    if len(cpf)==11 and cpf.isdigit():
+        return 'Valido'
+    else:
+        return 'Invalido'
+
+resposta = validacao(cpf)
+print("o CPF", cpf, "é", resposta)
